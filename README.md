@@ -41,8 +41,7 @@ This project analyzes the impact of **Big Data Analytics (BDA)** on decision-mak
 ## 🚀 How to Run
 1. Clone the repository:
    ```bash
-   git clone https://github.com/yourusername/big-data-banking.git
-   cd big-data-banking
+   git clone [https://github.com/Lavanya-chintha/Big-data-analytics-in-banking]
    ```
 2. Install dependencies:
    ```bash
